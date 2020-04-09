@@ -7,4 +7,4 @@ Features
 - Highscore using Unity Engine playerprefs function
 - Randomized Plaform generation
 
-![Screenshot 1](https://github.com/desrocm/zigzag-gamesforgood/Screenshot_20200409-163015.png)
+![Screenshot 1](https://github.com/desrocm/zigzag-gamesforgood/blob/master/Screenshot_20200409-163015.png?raw=true)
